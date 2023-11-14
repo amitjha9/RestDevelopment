@@ -18,6 +18,6 @@ public class getProductDetailByProductSkuTest extends TestBase{
         properties = TestBase.loadTestDataProperty();
         String serviceEndPoint = pcuExternalBaseUrl+"/products/"+properties.getProperty("productSku")+"/detail";
         response = PcuExternalAPIRestClient.jsonClientPcuExternalGET(serviceEndPoint);
-        System.out.println("Response:" +response.getBody().prettyPrint());
+        System.out.println("Response is:" +response.getBody().prettyPrint());
     }
 }
