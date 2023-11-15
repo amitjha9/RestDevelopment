@@ -1,2 +1,8 @@
-partners/partnerSwitchAPITest.class
+xproduct/getItemPickupPointSummaryAPITest.class
+xproduct/getItemPickupPointByItemSKUAPITest.class
 partners/partnerSignAPITest.class
+xproduct/postItemPickupPointListingAPITest.class
+partners/partnerSwitchAPITest.class
+partners/partnerCookieTest.class
+pcuExternalApi/getBusinessPartnerProfileByIdTest.class
+pcuExternalApi/getProductDetailByProductSkuTest.class

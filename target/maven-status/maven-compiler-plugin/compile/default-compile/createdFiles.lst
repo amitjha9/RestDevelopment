@@ -1,4 +1,11 @@
 com/practice/base/TestBase.class
-com/practice/restclient/RestClient.class
+com/practice/restclient/XproductAPIRestClient.class
+com/practice/Payload/PcuExternalAPIPayload.class
+com/practice/restclient/PcuExternalAPIRestClient.class
 com/practice/Payload/PartnersPayload.class
 com/practice/data/PartnerEngineData.class
+com/practice/utils/DbUtility.class
+com/practice/utils/SolrUtility.class
+com/practice/data/PcuExternalAPIData.class
+com/practice/Payload/XproductAPIPayload.class
+com/practice/restclient/RestClient.class
